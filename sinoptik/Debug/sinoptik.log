@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\cpp\sinoptik\sinoptik\main.cpp(94,19): warning C4154: deletion of an array expression; conversion to pointer supplied
+  sinoptik.vcxproj -> D:\cpp\sinoptik\Debug\sinoptik.exe
